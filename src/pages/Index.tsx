@@ -109,7 +109,7 @@ const Index = () => {
         </main>
 
         <footer className="mt-auto pt-8 text-center text-xs text-muted-foreground">
-          Powered by AI · For research purposes only
+          Built with ❤️ · Deepfake Detector · For research purposes only
         </footer>
       </div>
     </div>
